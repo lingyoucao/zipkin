@@ -65,4 +65,6 @@ class ZipkinKafkaCollectorAutoConfiguration { // makes simple type name unique f
       return s == null || s.isEmpty();
     }
   }
+
+  //lcs添加
 }
